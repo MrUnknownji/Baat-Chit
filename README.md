@@ -52,7 +52,3 @@ Before you begin, ensure you have the following installed:
 ## Contributing
 
 Feel free to fork the repository and submit pull requests with any enhancements.
-
-## License
-
-[MIT License](LICENSE)
